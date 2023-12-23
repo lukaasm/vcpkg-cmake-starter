@@ -1,0 +1,8 @@
+/.vs
+/.build
+/backend/node_modules
+/bin/Debug
+/bin/*
+!/bin/Config.json
+/build
+/bin/*
